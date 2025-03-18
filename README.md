@@ -16,7 +16,8 @@
 
 ## Capturas de pantalla
 
-(Aquí puedes agregar capturas de pantalla de tu aplicación en funcionamiento)
+![alt text] (./assets/captura1.png)
+![alt text] (./assets/captura2.png)
 
 ## Tecnologías utilizadas
 
